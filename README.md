@@ -30,6 +30,8 @@ Para este experimento utilizamos los siguientes materiales:
 - Dos palitos del juego "Jenga"
 - Cuchillas punta de lanza.
 - Cinta
+[![Materiales-Rendija-Cuantica.jpg](https://i.postimg.cc/QtcCdBDH/Materiales-Rendija-Cuantica.jpg)](https://postimg.cc/5YNbP26V)
+
 
 ### Montaje experimental:
 - Tomamos el láser y lo pegamos con cinta a uno de los palitos del juego jenga para determinar la altura a la que se encontrará el laser.
