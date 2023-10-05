@@ -1,5 +1,5 @@
 # Competencia de la doble rendija cuántica
-Este experimento es realizado con la finalidad de materializar y entender el comportamiento de uno de los experimentos denominado "El mas bello del siglo XIX" en la física
+Este experimento es realizado con la finalidad de materializar y entender el comportamiento de uno de los experimentos denominado "El más bello del siglo XIX" en la física
 ### Historia:
 Thomas Young, con el objetivo de apoyar la teoría de que la luz era una onda y rechazar la teoría de que la luz estaba formada por partículas.
 hizo pasar un haz de luz por dos rendijas y vio que sobre una pantalla se producía un patrón de interferencias, una serie de franjas brillantes y oscuras alternadas.
