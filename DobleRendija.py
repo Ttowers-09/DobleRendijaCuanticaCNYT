@@ -1,6 +1,6 @@
 """
 ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO
-Estudiante: Ivan Santiago F. Torres
+Estudiante: Ivan Santiago F. Torres and Joshua David Quiroga
 Docente: Luis Daniel Benavides
 Asignatura: CNYT
 """
