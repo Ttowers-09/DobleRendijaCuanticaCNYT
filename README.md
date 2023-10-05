@@ -20,6 +20,7 @@ Este experimento es un pilar fundamental en la teoría cuántica, ayudando a est
 - Utilizando la libreria presentada en la actividad "Simulación de lo clásico a lo cuántico" podemos corroborar nuestro experimento.
   (Al igual que en la libreria utilizada usamos Numpy, math y complex)
 - El resultado de manera teorica se puede apreciar que existe un "lugar" en donde habrá mayor porcentaje de visivilidad, este resultado es respaldado mediante el resultado práctico al encontrar en algunos espacios mayor concentración del haz de luz.
+
 [![Whats-App-Image-2023-10-05-at-4-34-41-AM-1.jpg](https://i.postimg.cc/qq83SbqD/Whats-App-Image-2023-10-05-at-4-34-41-AM-1.jpg)](https://postimg.cc/bSwr2RQ1)
 
 ### Materiales:
